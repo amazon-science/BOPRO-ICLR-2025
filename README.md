@@ -1,11 +1,10 @@
 ## My Project
 
-TODO: Fill this README out!
+This repository will contain the official implementation of the ICLR'2025 paper "Searching for Optimal Solutions with LLMs via Bayesian Optimization"
 
-Be sure to:
+## Repo
 
-* Change the title in this README
-* Edit your repository description on GitHub
+The repo is currently under construction and the codebase will be uploaded soon.
 
 ## Security
 
